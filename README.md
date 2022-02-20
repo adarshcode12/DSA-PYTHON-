@@ -1,2 +1,2 @@
 # DSA-PYTHON-
-It contains important DSA questions
+It contains important DSA question's Solutions.
